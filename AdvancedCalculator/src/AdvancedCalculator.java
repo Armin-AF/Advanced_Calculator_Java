@@ -89,8 +89,7 @@ public class AdvancedCalculator {
                         result = Math.log(number);
                         System.out.printf("Result: log(%.2f) = %.2f%n", number, result);
                         break;
-
-                        case 11:
+                    case 11:
                         result = factorial(number);
                         System.out.printf("Result: %.2f! = %.2f%n", number, result);
                         break;
