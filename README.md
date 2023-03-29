@@ -1,12 +1,14 @@
 # Advanced Java Calculator
 
-This repository contains the source code for an advanced Java calculator. The calculator is a console application that allows users to perform various arithmetic operations such as addition, subtraction, multiplication, division, and exponentiation.
-
+This repository contains the source code for an advanced Java calculator. The calculator is a console application that allows users to perform various arithmetic and advanced mathematical operations such as addition, subtraction, multiplication, division, exponentiation, trigonometric functions, logarithmic functions, and factorials.
 
 ## Features
 
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division
 - Calculate exponentiation (raising a number to a power)
+- Calculate trigonometric functions: sine, cosine, and tangent
+- Calculate logarithmic functions: base 10 and natural logarithm (base e)
+- Calculate factorials of non-negative integers
 - Interactive menu-driven interface
 - Easily extendable to support more operations
 
@@ -46,8 +48,14 @@ Advanced Calculator
 3. Multiply
 4. Divide
 5. Exponentiation
-6. Exit
-Enter your choice (1-6):
+6. Sine
+7. Cosine
+8. Tangent
+9. Logarithm (base 10)
+10. Natural Logarithm (base e)
+11. Factorial
+12. Exit
+Enter your choice (1-12):
 
 ```
 
