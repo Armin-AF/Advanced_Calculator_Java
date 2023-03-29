@@ -46,8 +46,14 @@ Advanced Calculator
 3. Multiply
 4. Divide
 5. Exponentiation
-6. Exit
-Enter your choice (1-6):
+6. Sine
+7. Cosine
+8. Tangent
+9. Logarithm (base 10)
+10. Natural Logarithm (base e)
+11. Factorial
+12. Exit
+Enter your choice (1-12):
 
 ```
 
